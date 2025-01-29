@@ -1,0 +1,11 @@
+h1{
+    color: aqua;
+    background-color: antiquewhite;
+}
+p{
+    font-size: smaller;
+    color: red;
+    flex: content;
+    flex-direction: column;
+    width: 400px;
+}
